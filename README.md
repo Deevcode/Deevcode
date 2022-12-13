@@ -1,7 +1,33 @@
-### Hi there 👋
+### Hola a todos 👋
+
+Este es mi perfil de GitHub, a continuacion veran algunos de mis proyectos desarrollado por mi, en conjunto con colaboradores que han aportado a estos proyectos.
+
+Frameworks de Desarrollo en los que he desarrollado
+
+° Django
+° Ionic
+
+Cms de Desarrollo utilizados
+
+° Wordpress (https://jcwebdot.cl/, https://mydreamnails.cl/)
+
+Lenguajes de programacion quehe utlizado en mis proyectos.
+
+° SQL (mySql, Oracle)
+° Python
+° Javascript
+° TypeScript
+° PHP
+
+Control y gestion de versiones
+
+° GIT
+° GITHUB
+
+
 
 <!--
-**Deevcode/Deevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jordaan23/Jordaan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
