@@ -1,6 +1,6 @@
 ### Hola a toda la comunidad 👋 
 
-A continucacion podran ver los proyectos en los que he participado y desarrollado, los repositorios son publicos para que puedan ayudar a la comunidad 👽.
+A continucacion podran ver los proyectos en los que he participado y desarrollado, los repositorios son publicos para que puedas revisarlos a detalle y puedas descargar el contenido 👽.
 
 ## Lenguajes de programacion quehe utlizado en mis proyectos. 🐱‍👤
 
