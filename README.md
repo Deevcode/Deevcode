@@ -2,26 +2,28 @@
 
 Este es mi perfil de GitHub, a continuacion veran algunos de mis proyectos desarrollado por mi, en conjunto con colaboradores que han aportado a estos proyectos.
 
-## Frameworks de Desarrollo en los que he desarrollado
+## Lenguajes de programacion quehe utlizado en mis proyectos. 🐱‍👤
 
-🦘 Django
+👨‍🚀 SQL (mySql, Oracle) 
+🐍 Python 
+🕹 Javascript 
+🎮 TypeScript 
+
+## Frameworks de Desarrollo en los que he desarrollado. 🤖
+
+🦘 Django 
 💠 Ionic
 
-## Control y gestor de versiones 📫
+## Control y gestor de versiones. ♻
 
-🕐 GIT
+🕐 GIT  
 🛸 GITHUB
 
-## Cms de Desarrollo utilizados
+## Cms de Desarrollo utilizados. 💻
+
 🌎 Wordpress
 (https://jcwebdot.cl/, https://mydreamnails.cl/)
 
-## Lenguajes de programacion quehe utlizado en mis proyectos.
-
-👨‍🚀 SQL (mySql, Oracle)
-🐍 Python
-🕹 Javascript
-🎮 TypeScript
 
 
 
