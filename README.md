@@ -1,6 +1,6 @@
 ### Hola a toda la comunidad 👋 
 
-Este es mi perfil de GitHub, a continuacion veran algunos de mis proyectos desarrollado por mi, en conjunto con colaboradores que han aportado a estos proyectos.
+A continucacion podran ver los proyectos en los que he participado y desarrollado, los repositorios son publicos para que puedan ayudar a la comunidad 👽.
 
 ## Lenguajes de programacion quehe utlizado en mis proyectos. 🐱‍👤
 
