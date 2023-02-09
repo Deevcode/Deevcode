@@ -2,6 +2,12 @@
 
 A continucacion podran ver los proyectos en los que he participado y desarrollado, los repositorios son publicos para que puedas revisarlos a detalle y puedas descargar el contenido 👽.
 
+Soy un desarrollador en progreso, me interesa el desarrollo web y movil ⚡.
+
+Comunicate a atravez de mi email. 📫
+
+jcwebdotcom@gmail.com
+
 ## Lenguajes de programacion quehe utlizado en mis proyectos. 🐱‍👤
 
 👨‍🚀 SQL (mySql, Oracle) 
@@ -19,13 +25,13 @@ A continucacion podran ver los proyectos en los que he participado y desarrollad
 🕐 GIT  
 🛸 GITHUB
 
-## Cms de Desarrollo utilizados. 💻
+## Cms utilizados. 💻
 
 🌎 Wordpress
-(https://jcwebdot.cl/, https://mydreamnails.cl/)
+https://jcwebdot.cl/ .
 
 🛒WooComerce
-
+https://mydreamnails.cl/ .
 
 
 
@@ -39,7 +45,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
