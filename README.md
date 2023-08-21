@@ -8,7 +8,7 @@ Comunicate a atravez de mi email. 📫
 
 jcwebdotcom@gmail.com
 
-## Lenguajes de programacion quehe utlizado en mis proyectos. 🐱‍👤
+## Lenguajes de programacion que he utlizado en mis proyectos. 🐱‍👤
 
 👨‍🚀 SQL (mySql, Oracle) 
 🐍 Python 
